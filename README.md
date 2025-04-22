@@ -11,15 +11,16 @@ Ollama is a tool that lets you easily run large language models (LLMs) like LLaM
 ---
 
 ## 📥 Step 1: Install Ollama
+### 🪟 For Windows
+1. Download the installer from [https://ollama.com/download](https://ollama.com/download)
+2. Run the `.exe` and follow the setup instructions.
 
 ### 🖥 For macOS
 ```bash
 curl -fsSL https://ollama.com/install.sh | sh
 ```
 
-### 🪟 For Windows
-1. Download the installer from [https://ollama.com/download](https://ollama.com/download)
-2. Run the `.exe` and follow the setup instructions.
+
 
 ### 🐧 For Linux (Ubuntu/Debian)
 ```bash
