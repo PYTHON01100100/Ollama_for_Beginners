@@ -1,5 +1,3 @@
----
-
 # 🚀 Ollama Installation & Model Guide for Beginners
 
 > Run powerful AI models locally on your computer with just a few commands.
