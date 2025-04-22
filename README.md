@@ -123,4 +123,7 @@ ollama rm deepseek-coder:7b
 
 ---
 
-Let me know if you want a version with screenshots or tailored for a specific OS (Windows/macOS/Linux)!
+## ⚙️ Tools that halps you to use these models
+- open-webui: [https://github.com/open-webui/open-webui](https://github.com/open-webui/open-webui)
+
+
