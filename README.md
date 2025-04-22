@@ -120,6 +120,7 @@ ollama rm deepseek-coder:7b
 ---
 
 ## ⚙️ Tools that halps you to use these models
+- GitHub Copilot : [https://marketplace.visualstudio.com/items?itemName=GitHub.copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 - open-webui: [https://github.com/open-webui/open-webui](https://github.com/open-webui/open-webui)
 - Continue VScode extension : [https://www.continue.dev/](https://www.continue.dev/)
 - AnythingLLM : [https://anythingllm.com/](https://anythingllm.com/)
