@@ -124,8 +124,9 @@ ollama rm deepseek-r1:7b
 
 ## 📚 More Info
 
-- Official Site: [https://ollama.com](https://ollama.com)
-- Full Model List: [https://ollama.com/library](https://ollama.com/library)
+- Official Site: [ollama](https://ollama.com)
+- Full Model List: [ollama libraries](https://ollama.com/library)
+- How to Run Ollama: [Beginner’s Guide](https://www.freecodecamp.org/news/how-to-run-open-source-llms-locally-using-ollama/)
 
 
 
