@@ -40,7 +40,7 @@ Ollama supports a growing number of models. Some examples:
 | `llama3`            | Latest Meta model (April 2024)              | `ollama run llama3`               |
 | `mistral`           | Lightweight and optimized                   | `ollama run mistral`              |
 
-To view all available models:
+To view all available models on your local device:
 ```bash
 ollama list
 ```
