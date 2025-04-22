@@ -1,5 +1,3 @@
-Sure! Here's a beginner-friendly **Markdown guide** to help you install **Ollama**, choose an AI model like `deepseek-coder:7b` or `deepseek-coder:14b`, and run it **locally** on your machine.
-
 ---
 
 # 🚀 Ollama Installation & Model Guide for Beginners
