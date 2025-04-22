@@ -35,10 +35,11 @@ Ollama supports a growing number of models. Some examples:
 
 | Model                | Description                                 | Command                           |
 |---------------------|---------------------------------------------|-----------------------------------|
-| `deepseek-coder:7b` | Smaller size, faster performance            | `ollama run deepseek-coder:7b`    |
-| `deepseek-coder:14b`| Larger, better reasoning but more resources | `ollama run deepseek-coder:14b`   |
-| `llama3`            | Latest Meta model (April 2024)              | `ollama run llama3`               |
-| `mistral`           | Lightweight and optimized                   | `ollama run mistral`              |
+| `deepseek-r1:7b` | Smaller size, faster performance            | `ollama run deepseek-r1:7b`    |
+| `deepseek-r1:14b`| Larger, better reasoning but more resources | `ollama run deepseek-r1:14b`   |
+| `llama3`            | Latest Meta model (April 2024)           | `ollama run llama3`               |
+| `mistral`           | Lightweight and optimized                | `ollama run mistral`              |
+| `qwen2.5:72b`           | Large-scale, high-performance model  | `ollama run qwen2.5:72b`              |
 
 To view all available models on your local device by using Terminal or CMD:
 ```bash
@@ -52,7 +53,7 @@ ollama list
 Use the `ollama run` command to automatically download and start the model:
 
 ```bash
-ollama run deepseek-coder:7b
+ollama run deepseek-r1:7b
 ```
 
 🔄 It will download the model on first run and start a local interactive session.
@@ -75,12 +76,12 @@ Press **Enter**, and the model will respond right there.
 
 ### Pull a model without starting it:
 ```bash
-ollama pull deepseek-coder:14b
+ollama pull deepseek-r1:14b
 ```
 
 ### Then run it later:
 ```bash
-ollama run deepseek-coder:14b
+ollama run deepseek-r1:14b
 ```
 
 ---
@@ -108,7 +109,7 @@ You don’t need to uninstall anything — you can keep multiple models.
 
 To remove downloaded models:
 ```bash
-ollama rm deepseek-coder:7b
+ollama rm deepseek-r1:7b
 ```
 ---
 
