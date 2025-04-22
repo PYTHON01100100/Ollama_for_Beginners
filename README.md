@@ -109,14 +109,6 @@ To remove downloaded models:
 ```bash
 ollama rm deepseek-coder:7b
 ```
-
----
-
-## 📚 More Info
-
-- Official Site: [https://ollama.com](https://ollama.com)
-- Full Model List: [https://ollama.com/library](https://ollama.com/library)
-
 ---
 
 ## ⚙️ Tools that halps you to use these models
@@ -124,5 +116,14 @@ ollama rm deepseek-coder:7b
 - open-webui: [https://github.com/open-webui/open-webui](https://github.com/open-webui/open-webui)
 - Continue VScode extension : [https://www.continue.dev/](https://www.continue.dev/)
 - AnythingLLM : [https://anythingllm.com/](https://anythingllm.com/)
+
+  
+---
+
+## 📚 More Info
+
+- Official Site: [https://ollama.com](https://ollama.com)
+- Full Model List: [https://ollama.com/library](https://ollama.com/library)
+
 
 
