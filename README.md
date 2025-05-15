@@ -128,6 +128,6 @@ ollama rm deepseek-r1:7b
 - Full Model List: [ollama libraries](https://ollama.com/library)
 - How to Run Ollama: [Beginner’s Guide](https://www.freecodecamp.org/news/how-to-run-open-source-llms-locally-using-ollama/)
 - Ollama and Continue.dev as a Local GitHub Copilot Alternative: [Continue.dev](https://medium.com/@sari.sarieddine/level-up-your-coding-ollama-and-continue-dev-as-a-local-github-copilot-alternative-f006a039fa15)
-- - How to use Copilot: [GitHub Copilot](https://youtu.be/pUK7MRzoTDc)
+-  How to use Copilot: [GitHub Copilot](https://youtu.be/pUK7MRzoTDc)
 
 
